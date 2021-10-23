@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samie-hash
-- 👀 I’m interested in Machine Learning and Data Science
+- 👀 I’m interested in Software Engineering, Machine Learning, Data Science
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 You can reach me on samueloseh007@gmail.com
