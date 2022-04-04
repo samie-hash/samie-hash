@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samie-hash
 - 👀 I’m interested in Software Engineering, Machine Learning, Data Science
-- 🌱 I’m currently learning Frontend development
+- 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 You can reach me on samueloseh007@gmail.com
 
